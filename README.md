@@ -1,13 +1,2 @@
-# MAHALogin
-this is for git hooks  of mahalogin
+# ramesh login
 
-web hooks call jenkins
-
-
-hello
-
-
-# mahalogin
-# mahalogin
-# mahalogin
-test
